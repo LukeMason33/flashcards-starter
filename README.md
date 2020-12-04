@@ -9,4 +9,4 @@ Once you have answered all of them, the console will indicate that the round is 
 - Then you'll want to run "npm install" in your console.
 - After that, you'll enter "node index.js" which will then kick off the game!
 
-![flash cards example](https://giphy.com/gifs/KxkoB5318FCcXJLYql/html5)
+![flash cards example](https://media.giphy.com/media/KxkoB5318FCcXJLYql/giphy.gif)
